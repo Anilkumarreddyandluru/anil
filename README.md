@@ -18,7 +18,7 @@
 
 
   # run
-  1)git clone https://github.com/Abhishek-BG/Movie-Rating-Web.git
+  1)git clone https://github.com/Andluruanilkumarreddy-BG/Movie-Rating-Web.git
   2)cd server -> npm install -> npm run server
   3)cd ../client -> npm install -> npm start
   4)setup the mysql 
@@ -26,7 +26,7 @@
 
 
   # upload 
-  1) git remote add origin https://github.com/Abhishek-BG/Movie-Rating-Web.git
+  1) git remote add origin https://github.com/andluruanlkumarreddy-BG/Movie-Rating-Web.git
   2) git add ./
   3) git commit -m update 
   4) git push origin 
