@@ -26,7 +26,7 @@
 
 
   # upload 
-  1) git remote add origin https://github.com/andluruanlkumarreddy-BG/Movie-Rating-Web.git
+  1) git remote add origin https://github.com/andluruanilkumarreddy-BG/Movie-Rating-Web.git
   2) git add ./
   3) git commit -m update 
   4) git push origin 
